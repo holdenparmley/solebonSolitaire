@@ -1,7 +1,3 @@
-# starter code for solitaitre card game assingment
-
-# v 0.04
-
 # v 0.01 initial version
 # v 0.02 fixed to shuffle to work with any size deck
 # v 0.03 made cardFromName slightly more robust
